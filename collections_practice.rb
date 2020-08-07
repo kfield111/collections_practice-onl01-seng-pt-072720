@@ -33,3 +33,13 @@ end
 def sum_array (array)
   array.sum
 end
+
+def add_s (array)
+  array.each |word|
+    if word[-1] != "s"
+      word.push "s"
+    end
+  end
+      
+
+
