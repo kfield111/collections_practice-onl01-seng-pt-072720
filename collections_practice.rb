@@ -39,4 +39,5 @@ def add_s (array)
     if word[-1] != "s"
       word.push "s"
     end
+    end
   end
