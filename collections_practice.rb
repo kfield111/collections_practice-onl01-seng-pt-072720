@@ -40,6 +40,3 @@ def add_s (array)
       word.push "s"
     end
   end
-      
-
-
